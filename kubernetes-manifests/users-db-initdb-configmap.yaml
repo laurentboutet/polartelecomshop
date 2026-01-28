@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: users-initdb-config
+data:
+  seed.js: |
+    db.users.insertMany([
+    {"firstname":"Walter","lastname":"White","email":"walter@polartelecom.com","username":"walter","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}
+    ,{"firstname":"Dwight","lastname":"Schrute","email":"dwight@polartelecom.com","username":"dwight","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}
+    ,{"firstname":"Eric","lastname":"Cartman","email":"eric@polartelecom.com","username":"eric","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}
+    ,{"firstname":"Han","lastname":"Solo","email":"han@polartelecom.com","username":"han","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}
+    ,{"firstname":"Phoebe","lastname":"Buffay","email":"phoebe@polartelecom.com","username":"phoebe","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}
+    ,{"firstname":"Elaine","lastname":"Benes","email":"elaine@polartelecom.com","username":"elaine","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}
+    ,{"firstname":"Laurent","lastname":"Boutet","email":"laurent@polartelecom.com","username":"laurent","password":"6837ea9b06409112a824d113927ad74fabc5c76e","salt":""}    
+    ]);

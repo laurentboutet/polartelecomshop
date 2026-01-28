@@ -1,0 +1,82 @@
+[
+  {
+    "name": "PolarTelecom Unlimited Plan",
+    "shortdescription": "All-inclusive mobile plan!",
+    "description": "Our Unlimited Plan allows you to enjoy unlimited calls, SMS, and MMS within France and from Europe. With unlimited 4G internet, stay connected without limits. It's freedom without boundaries!",
+    "imageurl1": "/static/images/unlimited_plan_square.jpg",
+    "imageurl2": "/static/images/unlimited_plan_thumb2.jpg",
+    "imageurl3": "/static/images/unlimited_plan_thumb3.jpg",
+    "price": 29.99,
+    "tags": ["plan", "unlimited", "4G", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Family Share Plan",
+    "shortdescription": "Share data with your family!",
+    "description": "Our Family Share Plan lets you share data among family members. Get unlimited calls and texts, and a shared data pool for all your devices. Stay connected together!",
+    "imageurl1": "/static/images/family_share_plan_square.jpg",
+    "imageurl2": "/static/images/family_share_plan_thumb2.jpg",
+    "imageurl3": "/static/images/family_share_plan_thumb3.jpg",
+    "price": 49.99,
+    "tags": ["plan", "family", "data", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Business Plan",
+    "shortdescription": "Business mobile plan!",
+    "description": "Our Business Plan offers tailored solutions for companies. Enjoy unlimited calls, SMS, and MMS, along with dedicated customer support. Stay connected to your business!",
+    "imageurl1": "/static/images/business_plan_square.jpg",
+    "imageurl2": "/static/images/business_plan_thumb2.jpg",
+    "imageurl3": "/static/images/business_plan_thumb3.jpg",
+    "price": 79.99,
+    "tags": ["plan", "business", "unlimited", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Student Plan",
+    "shortdescription": "Affordable plan for students!",
+    "description": "Our Student Plan is perfect for young adults. Enjoy a budget-friendly package with ample data and social media access, keeping you connected on campus and beyond!",
+    "imageurl1": "/static/images/student_plan_square.jpg",
+    "imageurl2": "/static/images/student_plan_thumb2.jpg",
+    "imageurl3": "/static/images/student_plan_thumb3.jpg",
+    "price": 19.99,
+    "tags": ["plan", "student", "budget", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Traveler's Plan",
+    "shortdescription": "Stay connected while traveling!",
+    "description": "Our Traveler's Plan is designed for those on the go. Get international roaming, high-speed data, and 24/7 customer support, making travel hassle-free!",
+    "imageurl1": "/static/images/travelers_plan_square.jpg",
+    "imageurl2": "/static/images/travelers_plan_thumb2.jpg",
+    "imageurl3": "/static/images/travelers_plan_thumb3.jpg",
+    "price": 59.99,
+    "tags": ["plan", "travel", "roaming", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Pay As You Go Plan",
+    "shortdescription": "Control your spending!",
+    "description": "With our Pay As You Go Plan, you have the flexibility to pay for only what you use. No contracts, no monthly bills, just simple pay-per-use rates!",
+    "imageurl1": "/static/images/payg_plan_square.jpg",
+    "imageurl2": "/static/images/payg_plan_thumb2.jpg",
+    "imageurl3": "/static/images/payg_plan_thumb3.jpg",
+    "price": 0.10,
+    "tags": ["plan", "payg", "flexible", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Senior Plan",
+    "shortdescription": "Simple and accessible!",
+    "description": "Our Senior Plan offers an easy-to-use service for the elderly. Get uncomplicated phone features, large buttons, and a clear pricing structure!",
+    "imageurl1": "/static/images/senior_plan_square.jpg",
+    "imageurl2": "/static/images/senior_plan_thumb2.jpg",
+    "imageurl3": "/static/images/senior_plan_thumb3.jpg",
+    "price": 25.99,
+    "tags": ["plan", "senior", "simple", "mobile"]
+  },
+  {
+    "name": "PolarTelecom Data Booster Plan",
+    "shortdescription": "Boost your data anytime!",
+    "description": "Run out of data? Our Data Booster Plan lets you add more high-speed data to your existing plan. Stay online without any interruptions or speed throttling!",
+    "imageurl1": "/static/images/data_booster_plan_square.jpg",
+    "imageurl2": "/static/images/data_booster_plan_thumb2.jpg",
+    "imageurl3": "/static/images/data_booster_plan_thumb3.jpg",
+    "price": 15.99,
+    "tags": ["plan", "data", "booster", "mobile"]
+  }
+]
